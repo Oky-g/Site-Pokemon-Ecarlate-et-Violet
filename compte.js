@@ -21,6 +21,6 @@ contactForm.addEventListener("submit", function (e) {
   else if (fullname.value && address.value) {
     alert("Mauvaises informations");
     e.preventDefault();
-    window.location.assign("Acceuil.html");
+    window.location.assign("accueil.html");
   }
 });
