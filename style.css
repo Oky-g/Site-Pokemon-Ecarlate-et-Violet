@@ -17,6 +17,10 @@ p {
   color: black;
   font-size: 1.25em;
 }
+a {
+    color: #D6C156;
+    font-size: 1.3em;
+}
 .equipe{
   transform: translate(40%, -220%);
   width: 55vh;
@@ -146,11 +150,11 @@ input[type="submit"]:hover{
   margin-bottom: 2.0625vh;
 }
 .liens{
-  transform: translate(70%, -5%);
-  width: 90vh;
+  transform: translate(50%, -5%);
+  width: 110vh;
   height: 25vh;
   border-radius: 1.375vh;
   text-color: rgb(0, 0, 0, 1);
   text-align: center;
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
